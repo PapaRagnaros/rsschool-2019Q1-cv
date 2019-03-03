@@ -5,7 +5,8 @@
 * E-mail: tsumeshka@gmail.com 
 * GitHub: @paparagnaros 
 ## Summary
-Here will be a really interesting and clever text. Just a little bit later.
+I am a very smart, responsible and hardworking student, ready to learn new intresting things.
+In these courses, I plan to learn a lot of new things for myself.
 ## Skills 
 Programming languages: 
 1. C++ 
@@ -14,8 +15,6 @@ Programming languages:
 4. Pascal ABC 
 5. Some knowledge of Java, Phyton и PHP 
 Git.
-## Examples of code 
-A little bit later.
 ## Experience
 I have no idea.
 ## Education.
