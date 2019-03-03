@@ -1,1 +1,1 @@
-﻿https://PapaRagnaros.github.io/rsschool-2019Q1-cv/cv.
+﻿https://PapaRagnaros.github.io/rsschool-2019Q1-cv/cv
